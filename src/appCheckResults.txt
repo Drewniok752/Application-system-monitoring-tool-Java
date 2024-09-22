@@ -1,0 +1,7 @@
+Application chrome.exe is running.
+Application notepad.exe is not running.
+Application calc.exe is not running.
+
+System Metrics:
+CPU Load: 0%
+Free Memory: 22796608 KB
